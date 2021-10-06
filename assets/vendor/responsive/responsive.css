@@ -1,0 +1,578 @@
+
+@media (min-width: 320px) and (max-width:400px){
+
+.navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .last_link {
+        padding-right: 30px;
+    }
+
+    .banner_left_text {
+        padding-top: 5px;
+    }
+.team_hover .card {
+    max-width: 410px;
+    height: 274px;
+    margin-left: 1px;
+}
+.team_hover .card .card-img-top {
+    width: 90%;
+    left: 14px;
+}
+.banner_left_text h1 {
+    font-size: 26px;
+ }
+ .copyright span, .copyright a {
+    text-align: center;
+  }
+  #banner_part {
+    background: #ffffff;
+    padding: 10px 0px;
+}
+}
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 400.98px) and (max-width: 575px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .last_link {
+        padding-right: 30px;
+    }
+
+    .banner_left_text {
+        padding-top: 5px;
+    }
+
+    .read_btn {
+        margin-top: 6px;
+        margin-bottom: 20px;
+        margin-left: 154px;
+    }
+
+    .banner_left_text h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .banner_left_text p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .banner_left_text h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+
+    #feature_section {
+        padding: 30px 0px;
+    }
+
+    #about_part {
+        padding: 35px 0px;
+    }
+
+    .about_top_text h2 {
+        font-size: 34px;
+    }
+
+    .about_right h3 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+
+    .count_number i {
+        left: 45%;
+    }
+
+    #service_part {
+        padding: 35px 0px;
+    }
+    #banner_part {
+    padding: 10px 0px;
+    }
+
+    .services_top_text h2 {
+        font-size: 34px;
+    }
+
+    #testimonial_part {
+        padding: 35px 0px;
+    }
+
+    .testimonial_top_text h2 {
+        font-size: 35px;
+    }
+
+    .team_top_text h2 {
+        font-size: 34px;
+    }
+
+    #team_part {
+        padding: 35px 0px;
+    }
+
+    .team_hover .card .card-img-top {
+        width: 80%;
+        height: 286px;
+        padding: 28px 27px;
+        top: -47px;
+        left: 42px;
+        margin: 14px 0px;
+    }
+
+    .card:hover .card-body {
+        margin-top: 228px;
+    }
+
+    .team_hover .card {
+    max-width: 410px;
+    height: 274px;
+    margin-left: 50px;
+}
+
+    #contact_part {
+        padding: 35px 0px;
+    }
+
+    .contact_top_text h2 {
+        font-size: 34px;
+    }
+
+    .contact_left {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .contact_icone {
+        text-align: center;
+        display: inline-block;
+    }
+
+    .contact_form .inputBox .contact_btn {
+        width: 224px;
+        text-align: center;
+        margin: 0 auto;
+        display: inherit;
+    }
+
+    .dk-footer-box-info {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .footer-widget h3 {
+        text-align: center;
+        margin: 0 auto;
+        padding-bottom: 10px;
+    }
+
+    .animate-border {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .footer-left-widget {
+        text-align: center;
+        padding-left: 24px;
+    }
+
+    .footer-widget p {
+        text-align: center;
+        color: #c5b3b3;
+    }
+
+    .dk-footer .contact-us.contact-us-last {
+        margin-left: 0px;
+        text-align: center;
+        padding: 0px 150px;
+    }
+
+    .dk-footer .contact-us {
+        margin-top: 0;
+        margin-bottom: 30px;
+        padding: 0px 150px;
+    }
+
+    .copyright span,
+    .copyright a {
+        font-size: 15px;
+    }
+
+    .credits {
+        font-size: 15px;
+        color: #fff;
+        margin-top: -21px;
+    }
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .last_link {
+        padding-right: 30px;
+    }
+
+    .banner_left_text {
+        padding-top: 5px;
+    }
+
+    .read_btn {
+        margin-top: 6px;
+        margin-bottom: 20px;
+        margin-left: 154px;
+    }
+
+    .banner_left_text h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .banner_left_text p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .banner_left_text h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #banner_part {
+    padding: 20px 0px;
+    }
+
+    #about_part {
+        padding: 35px 0px;
+    }
+
+    .about_top_text h2 {
+        font-size: 34px;
+    }
+
+    .about_right h3 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+
+    .count_number i {
+        left: 45%;
+    }
+
+    #service_part {
+        padding: 35px 0px;
+    }
+
+    .services_top_text h2 {
+        font-size: 34px;
+    }
+
+    #testimonial_part {
+        padding: 35px 0px;
+    }
+
+    .testimonial_top_text h2 {
+        font-size: 35px;
+    }
+
+    .team_top_text h2 {
+        font-size: 34px;
+    }
+
+    #team_part {
+        padding: 35px 0px;
+    }
+
+    .team_hover .card .card-img-top {
+        width: 80%;
+        height: 286px;
+        padding: 28px 27px;
+        top: -47px;
+        left: 42px;
+        margin: 14px 0px;
+    }
+
+    .card:hover .card-body {
+        margin-top: 228px;
+    }
+
+    .team_hover .card {
+        max-width: 410px;
+        height: 274px;
+        margin-left: 40px;
+    }
+
+    #contact_part {
+        padding: 35px 0px;
+    }
+
+    .contact_top_text h2 {
+        font-size: 34px;
+    }
+
+    .contact_left {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .contact_icone {
+        text-align: center;
+        display: inline-block;
+    }
+
+    .contact_form .inputBox .contact_btn {
+        width: 224px;
+        text-align: center;
+        margin: 0 auto;
+        display: inherit;
+    }
+
+    .dk-footer-box-info {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .footer-widget h3 {
+        text-align: center;
+        margin: 0 auto;
+        padding-bottom: 10px;
+    }
+
+    .animate-border {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .footer-left-widget {
+        text-align: center;
+        padding-left: 24px;
+    }
+
+    .footer-widget p {
+        text-align: center;
+        color: #c5b3b3;
+    }
+
+    .dk-footer .contact-us.contact-us-last {
+        margin-left: 0px;
+        text-align: center;
+        padding: 0px 150px;
+    }
+
+    .dk-footer .contact-us {
+        margin-top: 0;
+        margin-bottom: 30px;
+        padding: 0px 150px;
+    }
+
+    .copyright span,
+    .copyright a {
+        font-size: 15px;
+    }
+
+    .credits {
+        font-size: 15px;
+        color: #fff;
+        margin-top: -21px;
+    }
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .last_link {
+        padding-right: 30px;
+    }
+
+    .banner_left_text {
+        padding-top: 5px;
+    }
+
+    .read_btn {
+        margin-top: 6px;
+        margin-bottom: 20px;
+        margin-left: 240px;
+    }
+
+    .banner_left_text h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .banner_left_text p {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .banner_left_text h2 {
+        font-size: 23px;
+        text-align: center;
+    }
+
+    #particles-js {
+        height: 200vh;
+    }
+
+    .feature_text {
+        padding: 26px;
+    }
+
+    .about_right h3 {
+        padding-top: 20px;
+    }
+
+    #about_part {
+        padding: 40px 0px;
+    }
+
+    #service_part {
+        padding: 40px 0px;
+    }
+
+    #testimonial_part {
+        padding: 40px 0px;
+    }
+
+    #team_part {
+        padding: 40px 0px;
+        background: #FDFCFD;
+    }
+
+    #contact_part {
+        padding: 40px 0px;
+    }
+
+    .contact_left {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .contact_icone {
+        text-align: center;
+        display: inline-block;
+    }
+
+    .contact_form h2 {
+        text-align: center;
+    }
+
+    .contact_form .inputBox .contact_btn {
+        width: 224px;
+        text-align: center;
+        margin: 0 auto;
+        display: inherit;
+    }
+
+    .dk-footer-box-info {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .footer-widget h3 {
+        text-align: center;
+        margin: 0 auto;
+        padding-bottom: 10px;
+    }
+
+    .animate-border {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .footer-left-widget {
+        text-align: center;
+        padding-left: 24px;
+    }
+
+    .footer-widget p {
+        text-align: center;
+        color: #c5b3b3;
+    }
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .feature_text {
+        padding: 11px;
+
+    }
+
+    #about_part {
+        padding: 40px 0px;
+    }
+
+    .about_top_text p {
+        padding: 10px 113px;
+    }
+
+    .about_img {
+        height: 430px;
+        width: 475px;
+
+    }
+
+    .read_btn {
+        margin-top: -6px;
+    }
+
+    .count-text {
+        font-size: 16px;
+    }
+
+    #service_part {
+        padding: 40px 0px;
+    }
+
+    .services_top_text p {
+        padding: 10px 113px;
+    }
+
+    #testimonial_part {
+        padding: 40px 0px;
+    }
+
+    .testimonial_top_text p {
+        padding-top: 10px 113px;
+    }
+
+    #team_part {
+        padding: 40px 0px;
+    }
+
+    .team_top_text p {
+        padding-top: 10px 113px;
+    }
+
+    #contact_part {
+        padding: 80px 0px;
+    }
+
+    #contact_part p {
+        padding: 10px 113px;
+    }
+
+    .dk-footer-box-info {
+        top: -56px;
+        padding: 30px;
+    }
+
+    #particles-js {
+        height:90vh;
+    }
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
